@@ -1,0 +1,8 @@
+# .gitignore
+# This file was created on 14/07/2017
+
+# directories:
+Event_logs
+
+# files:
+files
